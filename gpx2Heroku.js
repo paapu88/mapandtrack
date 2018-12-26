@@ -1,5 +1,6 @@
 /*
 https://stackoverflow.com/questions/43710706/converting-jquery-to-pure-javascript-on-submit-form
+https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript
 */
 
 function makeAjaxRequest(url, method, data) {
